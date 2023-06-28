@@ -9,6 +9,8 @@
   ##
   
 ![Eduarda Ricaldes](https://github-readme-stats.vercel.app/api?username=eduardaricaldes&show_icons=true&theme=highcontrast)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaricaldes&layout=compact&hide_border=e7f217&title_color=e7f217&text_color=e7f217&bg_color=0d1117" />
+</div>
 
   ## Tecnologias que eu utilizo 
 <div style="display: inline_block"><br>
