@@ -8,9 +8,6 @@
 
   ##
   
-![Eduarda Ricaldes](https://github-readme-stats.vercel.app/api?username=eduardaricaldes&show_icons=true&theme=highcontrast)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaricaldes&layout=compact&hide_border=e7f217&title_color=e7f217&text_color=e7f217&bg_color=0d1117" />
-</div>
 
   ## Tecnologias que eu utilizo 
 <div style="display: inline_block"><br>
@@ -19,6 +16,5 @@
   <img align="center" alt="duda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="duda-jest" height="40" width="50" src= https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white.svg>
 </div>
  
